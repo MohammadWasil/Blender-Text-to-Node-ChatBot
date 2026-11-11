@@ -1,6 +1,6 @@
 # Blender-Text-to-Node-ChatBot (WiP)
 
-YouTube: [Blender Text to Node ChatBot | Python | Blender | OpenAI | GPT-4.1](https://youtube.com "Blender Text to Node ChatBot | Python | Blender | OpenAI | GPT-4.1")
+YouTube: [Blender Text to Node ChatBot | Python | Blender | OpenAI | GPT-4.1](https://youtu.be/Gsdr474TTXE "Blender Text to Node ChatBot | Python | Blender | OpenAI | GPT-4.1")
 
 Example (More will follow):
 
