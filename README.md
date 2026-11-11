@@ -1,5 +1,7 @@
 # Blender-Text-to-Node-ChatBot (WiP)
 
+YouTube: [Blender Text to Node ChatBot | Python | Blender | OpenAI | GPT-4.1](https://youtube.com "Blender Text to Node ChatBot | Python | Blender | OpenAI | GPT-4.1")
+
 Example (More will follow):
 
 ![User WorkFlow](node_copilot/diagram/blender_node_copilot.gif)
